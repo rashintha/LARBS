@@ -20,7 +20,7 @@ esac done
 [ -z "$dotfilesrepo" ] && dotfilesrepo="https://github.com/wickedjargon/voidrice.git"
 [ -z "$progsfile" ] && progsfile="https://raw.githubusercontent.com/wickedjargon/LARBS/master/progs.csv"
 [ -z "$aurhelper" ] && aurhelper="yay"
-[ -z "$repobranch" ] && repobranch="master"
+[ -z "$repobranch" ] && repobranch="main"
 
 ### FUNCTIONS ###
 
